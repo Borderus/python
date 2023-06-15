@@ -14,11 +14,11 @@ def play():
   source.paused = False # unpause the playback
   while True:
     # Display menu
-      print("")
-      print("Enter 1 to play")
-      print("Enter 2 to pause")
-      print("Enter 3 to exit")
-      print("")
+    print("")
+    print("Enter 1 to play")
+    print("Enter 2 to pause")
+    print("Enter 3 to exit")
+    print("")
     # Start taking user input and doing something with it
     userInput2 = input()
     if userInput2 == 1:
