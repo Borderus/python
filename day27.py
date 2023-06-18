@@ -2,26 +2,33 @@
 
 import random, os, time
 
+
 #Have user input name
 def name():
   name = input("Enter the character name: ")
   return name
 
+
 #Randomly generate species
 def species():
-  speciesArray = ["Dwarf", "Elf", "Gnome", "Halfling", "Human", "Centaur", "Goblin", "Hobgoblin", "Orc"]
-  species = speciesArray[random.randint(0,len(speciesArray)-1)]
+  speciesArray = [
+    "Dwarf", "Elf", "Gnome", "Halfling", "Human", "Centaur", "Goblin",
+    "Hobgoblin", "Orc"
+  ]
+  species = speciesArray[random.randint(0, len(speciesArray) - 1)]
   return species
+
 
 #Generate combined dice roll
 def rollTwoDice(dice1, dice2):
-  output = random.randint(1,dice1) + random.randint(1,dice2)
+  output = random.randint(1, dice1) + random.randint(1, dice2)
   return output
+
 
 #Set variables
 species = species()
-health = rollTwoDice(6,12)/2 + 10
-strength = rollTwoDice(6,12)/2 + 12
+health = rollTwoDice(6, 12) / 2 + 10
+strength = rollTwoDice(6, 12) / 2 + 12
 
 #Print out details
 while True:
