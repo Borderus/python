@@ -6,3 +6,4 @@ Day 29 - Print function options, ANSI codes<br>
 Day 30 - f-strings<br>
 Day 31 - User Interface via String Manipulation<br>
 Day 32 - Lists<br>
+Day 33 - Adding to and removing from lists<br>
