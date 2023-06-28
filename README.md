@@ -12,3 +12,4 @@ Day 35 - Updated List Editor<br>
 Day 36 - Case Manipulation and Stripping<br>
 Day 37 - Substrings and Split Function<br>
 Day 38 - Using strings as lists<br>
+Day 39 - Hangman<br>
