@@ -15,3 +15,4 @@ Day 38 - Using strings as lists<br>
 Day 39 - Hangman<br>
 Day 40 - Dictionaries<br>
 Day 41 - methods for retrieving from dictionaries<br>
+Day 42 - MokeBeast Creator<br>
