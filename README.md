@@ -16,4 +16,5 @@ Day 39 - Hangman<br>
 Day 40 - Dictionaries<br>
 Day 41 - methods for retrieving from dictionaries<br>
 Day 42 - MokeBeast Creator<br>
-Day 43 - 2D Lists
+Day 43 - 2D Lists<br>
+Day 44 - Dynamic Lists of Lists<br>
