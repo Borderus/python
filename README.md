@@ -18,3 +18,4 @@ Day 41 - methods for retrieving from dictionaries<br>
 Day 42 - MokeBeast Creator<br>
 Day 43 - 2D Lists<br>
 Day 44 - Dynamic Lists of Lists<br>
+Day 45 - Detailed To-Do List<br>
