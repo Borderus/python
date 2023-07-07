@@ -20,3 +20,4 @@ Day 43 - 2D Lists<br>
 Day 44 - Dynamic Lists of Lists<br>
 Day 45 - Detailed To-Do List<br>
 Day 46 - MokeBeasts and Dictionaries of Dictionaries<br>
+Day 47 - Top Trumps<br>
