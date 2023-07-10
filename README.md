@@ -25,3 +25,8 @@ Day 48 - Writing out to files<br>
 Day 49 - Reading from files<br>
 Day 50 - Ideas List<br>
 Day 51 - Autosave<br>
+Day 52 - Exception Handling<br>
+Day 53 - Inventory Manager
+Day 54 - CSVs
+Day 55 - File Manipulation<br>
+Day 56 - Music Manager<br>
