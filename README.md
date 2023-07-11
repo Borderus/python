@@ -31,3 +31,4 @@ Day 54 - CSVs<br>
 Day 55 - File Manipulation<br>
 Day 56 - Music Manager<br>
 Day 57 - Recursion<br>
+Day 58 - Using the debugger<br>
