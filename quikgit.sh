@@ -1,3 +1,5 @@
+# Use ./quikgit.sh <number> to run this
+
 git status
 
 echo "Adding file day$1.py"
