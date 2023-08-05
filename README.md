@@ -41,3 +41,5 @@ Day 64 - Object Oriented Programming<br>
 Day 65 - Character Creator with OOP<br>
 Day 66 - Calculator and GUIs<br>
 Day 67 - Image Search Engine<br>
+Day 68 - Removing items from GUIs<br>
+Day 69 - Mr Snrub's Choose Your Own Adventure<br>
