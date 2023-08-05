@@ -22,7 +22,7 @@ def changeImage():
     imageNotFound.pack()
 
 def createPic(name):
-  fname = name.title()+".png"
+  fname = "Day67/"+name.title()+".png"
   output = tk.PhotoImage(file=fname)
   dictPics[name.lower()] = output
   return output
