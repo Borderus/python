@@ -44,4 +44,5 @@ Day 67 - Image Search Engine<br>
 Day 68 - Removing items from GUIs<br>
 Day 69 - Mr Snrub's Choose Your Own Adventure<br>
 Day 70 - Secrets <br>
-Day 70 - Hashing and Salting<br>
+Day 71 - Hashing and Salting<br>
+Day 72 - Diary v2.0<br>
