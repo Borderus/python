@@ -43,4 +43,5 @@ Day 66 - Calculator and GUIs<br>
 Day 67 - Image Search Engine<br>
 Day 68 - Removing items from GUIs<br>
 Day 69 - Mr Snrub's Choose Your Own Adventure<br>
+Day 70 - Secrets <br>
 Day 70 - Hashing and Salting<br>
