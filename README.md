@@ -59,5 +59,5 @@ Day 82 - Get and multi-lingual site<br>
 Day 83 - Adding themes to blog<br>
 Day 84 - Login with DB<br>
 Day 85 - Sessions<br>
-Day 86 - Blog<br>
-Day 87 - Replit Authentication<br>
+Day 86 - *Blog*<br>
+Day 87 - **Replit Authentication**<br>
