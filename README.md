@@ -69,3 +69,4 @@ Day 92 - Weather Updater<br>
 Day 93 - Website with embedded Spotify<br>
 Day 94 - OpenAI and NewsAPI<br>
 Day 95 - News-Inspired Playlists (Utterly Depressing)<br>
+Day 96 - Web Scraping<br>
