@@ -71,3 +71,4 @@ Day 94 - OpenAI and NewsAPI<br>
 Day 95 - News-Inspired Playlists (Utterly Depressing)<br>
 Day 96 - Web Scraping<br>
 Day 97 - Wikipedia Summary and References<br>
+Day 98 - Email Scheduling and Joke Generation<br>
