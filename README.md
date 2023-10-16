@@ -72,4 +72,5 @@ Day 95 - News-Inspired Playlists (Utterly Depressing)<br>
 Day 96 - Web Scraping<br>
 Day 97 - Wikipedia Summary and References<br>
 Day 98 - Email Scheduling and Joke Generation<br>
-Day 99 - Bingo Game
+Day 99 - Bingo Game<br>
+Day 100 - Bookshop Scraper
